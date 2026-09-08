@@ -46,16 +46,6 @@
 - **Video Platform（视频点播/直播平台）**：Vue 3 + FastAPI 全栈开发，支持 JWT 鉴权、HLS 流播放、实时评论、智能搜索、收藏及直播间管理。前端 Pinia 状态管理，后端异步 SQLAlchemy + 模块化路由。
 - **食光厨房（智能烹饪助手）**：基于 LangGraph 的状态机设计，涵盖需求收集、菜谱推荐、营养分析、周菜单生成，集成 RAG 检索与食材过敏校验，支持多轮对话中断与恢复。
 
----
-
-## 📈 GitHub 统计
-
-<a href="https://github.com/111Decepticon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=111Decepticon&show_icons=true&theme=transparent&hide_title=true" />
-</a>
-<a href="https://github.com/111Decepticon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=111Decepticon&layout=compact&theme=transparent&hide_title=true" />
-</a>
 
 ---
 
